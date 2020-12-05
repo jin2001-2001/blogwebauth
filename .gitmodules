@@ -1,0 +1,9 @@
+[submodule "modules/contrib/social_api"]
+	path = modules/contrib/social_api
+	url = https://git.drupalcode.org/project/social_api.git
+[submodule "modules/contrib/social_auth_google"]
+	path = modules/contrib/social_auth_google
+	url = https://git.drupalcode.org/project/social_auth_google.git
+[submodule "modules/contrib/social_auth"]
+	path = modules/contrib/social_auth
+	url = https://git.drupalcode.org/project/social_auth.git
