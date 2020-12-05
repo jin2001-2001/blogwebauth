@@ -1,0 +1,4 @@
+name: myfirstmodule
+type: module
+core_version_requirement: ^9
+description: 'first trying aha'
